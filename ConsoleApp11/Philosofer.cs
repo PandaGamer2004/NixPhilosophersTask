@@ -82,12 +82,12 @@ namespace ConsoleApp11
         }
         public async void think()
         {
-            
+            Thread.Sleep(1000);
         }
 
         public async void eat()
         {
-            
+            Thread.Sleep(1000);
         }
     }
     
